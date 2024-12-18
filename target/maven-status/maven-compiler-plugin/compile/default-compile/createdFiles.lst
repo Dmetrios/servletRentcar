@@ -1,5 +1,4 @@
 com\restapi\model\mapper\CarDtoMapperImpl.class
-com\restapi\Main.class
 com\restapi\repository\OrderRepository.class
 com\restapi\util\ServiceFactory.class
 com\restapi\model\dto\ClientDto.class

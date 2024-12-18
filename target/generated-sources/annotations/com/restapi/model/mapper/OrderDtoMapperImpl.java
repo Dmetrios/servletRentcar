@@ -12,7 +12,7 @@ import javax.annotation.processing.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2024-12-16T20:50:45+0400",
+    date = "2024-12-18T08:56:12+0400",
     comments = "version: 1.4.2.Final, compiler: javac, environment: Java 22.0.2 (Oracle Corporation)"
 )
 public class OrderDtoMapperImpl implements OrderDtoMapper {
