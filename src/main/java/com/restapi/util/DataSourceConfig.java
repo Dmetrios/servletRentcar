@@ -26,7 +26,7 @@ public class DataSourceConfig {
             dataSource = new HikariDataSource(config);
         }
         catch (Exception e){
-            throw new RuntimeException("Warn", e);
+            throw new RuntimeException("Database not connection", e);
         }
     }
 
